@@ -1,0 +1,92 @@
+[
+    {
+        "username": "admin",
+        "password": "d033e22ae348aeb5660fc2140aec35850c4da997",
+        "role": "admin"
+    },
+    {
+        "username": "rj",
+        "password": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8",
+        "role": "regular"
+    },
+    {
+        "username": "test",
+        "password": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+        "role": "regular"
+    },
+    {
+        "username": "testregister",
+        "password": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+        "role": "regular"
+    },
+    {
+        "username": "newuser",
+        "password": "c2a6b03f190dfb2b4aa91f8af8d477a9bc3401dc",
+        "role": "regular"
+    },
+    {
+        "username": "newestuser",
+        "password": "6b7c3951c0fde8b6336bbcb7af21a199d9fb96f9",
+        "role": "regular"
+    },
+    {
+        "username": "newestuser",
+        "password": "6b7c3951c0fde8b6336bbcb7af21a199d9fb96f9",
+        "role": "regular"
+    },
+    {
+        "username": "testagain",
+        "password": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+        "role": "regular"
+    },
+    {
+        "username": "older",
+        "password": "6fa5fbbc16c8f82ea478e5b933b345e46dd285ea",
+        "role": "regular"
+    },
+    {
+        "username": "vince",
+        "password": "9b50d1f90e62bf2b07ce4a2c12ae735ccb4c3d05",
+        "role": "regular"
+    },
+    {
+        "username": "tryagain",
+        "password": "3240aa0fe3ca15051680641a59e8d7b61c286b23",
+        "role": "regular"
+    },
+    {
+        "username": "newtest",
+        "password": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+        "role": "regular"
+    },
+    {
+        "username": "newertest",
+        "password": "1d47386a9777a927aac611d869a7baed63609654",
+        "role": "regular"
+    },
+    {
+        "username": "againnew",
+        "password": "7d56ba0d9fb3089dfbd5b63a611e104598e1e9e2",
+        "role": "regular"
+    },
+    {
+        "username": "newestuser1",
+        "password": "0aef076c7615ed3521af4534d55d4f1d6c16c03d",
+        "role": "regular"
+    },
+    {
+        "username": "cielo",
+        "password": "b54cfda89820cafb77fd4a8d6749c14f662b2d17",
+        "role": "regular"
+    },
+    {
+        "username": "newestuser5",
+        "password": "784c81fd6b2deb235fc9560600458a5ef8831847",
+        "role": "regular"
+    },
+    {
+        "username": "test",
+        "password": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+        "role": "regular"
+    }
+]

@@ -22,8 +22,10 @@ session_start();
 		<?php require_once('functionlib.php'); setLogin(); ?>
 		<?php require_once('navbar.php') ?>
 	</div>
-	<div class="about row">
-		<?php require_once('about.php') ?>
+	<div class="container-fluid">
+		<div class="row about">
+			<?php require_once('about.php') ?>
+		</div>
 	</div>
 	<div class="container-fluid footer">
 		<?php require_once('footer.php') ?>

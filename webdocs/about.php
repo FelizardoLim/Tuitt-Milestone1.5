@@ -22,3 +22,4 @@
 				cillum dolore eu fugiat nulla pariatur. </p>
 			</div>
 		</div>
+		<div class="col-sm-5"></div>

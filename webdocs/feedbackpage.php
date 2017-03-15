@@ -22,11 +22,13 @@ session_start();
 		<?php require_once('functionlib.php'); setLogin(); ?>
 		<?php require_once('navbar.php') ?>
 	</div>
-	<div class="feedback">
-		<div class="outerdiv col-sm-offset-2 col-sm-8 col-xs-12">
-			<div>
-				<h3 style="color: white;">Feedback Archives</h3>
-				<?php require_once('feedbackarchives.php') ?>
+	<div class="container-fluid">
+		<div class="row feedback">
+			<div class="outerdiv col-sm-offset-2 col-sm-8 col-xs-12">
+				<div>
+					<h3 style="color: white;">Feedback Archives</h3>
+					<?php require_once('feedbackarchives.php') ?>
+				</div>
 			</div>
 		</div>
 	</div>

@@ -28,9 +28,9 @@ if(!isset($_SESSION['username'])){
 		<?php require_once('functionlib.php'); setLogin(); ?>
 		<?php require_once('navbar.php') ?>
 	</div>
-	<div class="container-fluid content" id="collection">
-		<div class="loginbg" id="contact">
-			<div class="outerdiv col-sm-offset-2 col-sm-8 col-xs-12">
+	<div class="container-fluid" id="collection">
+		<div class="row loginbg" id="contact">
+			<div class="logindiv col-sm-offset-2 col-sm-8 col-xs-12">
 				<div class="login">
 					<h3>Login</h3>
 					<form class="form-group" method="POST">

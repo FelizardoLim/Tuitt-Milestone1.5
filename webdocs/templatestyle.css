@@ -81,6 +81,7 @@ body {
 
 .aboutdiv, .cartcarsdetails {
 	padding-top: 50px;
+	padding-bottom: 30px;
 }
 
 .aboutdetails {
@@ -108,6 +109,12 @@ body {
 	padding: 10px;
 	background: transparent;
 	padding-top: 5%;
+}
+
+.logindiv {
+	padding: 10px;
+	background: transparent;
+	padding-top: 50px;
 }
 
 .login, .contactdetails, .adetails, .bannerdetails {
